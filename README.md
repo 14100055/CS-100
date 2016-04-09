@@ -12,4 +12,7 @@ also do these punches. First boxer to get 10 hits is the winner.
 There is a "Helpers" folder in which I made helper files to help me in figuring out the appropriate settings/values for the 
 accelerometer in the controllers (WiiMote and Nunchuk). I used the API provided by WiiLab so as to use the WiiMote in MATLAB.
 
-Usage: run "runme.m" in MATLAB
+**Usage**
+```
+run "runme.m" in MATLAB
+```
